@@ -23,7 +23,7 @@ if you wish to end the checker just press 'q'
 
 if the button is clicking in the right spot edit the main.bat file
 
-###Credits:
+### Credits:
 
 for doing the bat stuff
 
