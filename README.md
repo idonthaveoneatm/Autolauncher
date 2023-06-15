@@ -1,6 +1,17 @@
 # This is my PSX AUTOLAUNCHER
 Place all these files in a folder
 
+open command prompt AS ADMINISTRATOR
+
+cd into the folder (google if you dont know how to cd)
+
+and run
+```
+python checker.py
+```
+
+if you wish to end the checker just press 'q'
+
 ## Requirements:
 - python
 - windows
