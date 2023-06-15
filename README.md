@@ -21,7 +21,7 @@ if you wish to end the checker just press 'q'
 ## have your task bar with ROBLOX IN THE FIFTH SLOT TO SEE IF PIXELS WORK
 ![image](https://github.com/idonthaveoneatm/Autolauncher/blob/normal/Placement.png)
 
-if the button is clicking in the right spot edit the main.bat file
+if the button isnt clicking in the right spot edit the main.bat file
 
 ### Credits:
 
