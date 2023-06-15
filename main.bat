@@ -12,3 +12,5 @@ call mouse.bat moveTo 628x464
 :This clicks play
 call mouse.bat click
 echo relaunched
+timeout /t 3 /nobreak
+cls
