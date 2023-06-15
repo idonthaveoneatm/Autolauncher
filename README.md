@@ -22,6 +22,8 @@ if you wish to end the checker just press 'q'
 ![image](https://github.com/idonthaveoneatm/Autolauncher/blob/normal/Placement.png)
 
 if the button isnt clicking in the right spot edit the main.bat file
+https://www.youtube.com/watch?v=77meeSkPNYo
+video on how to do that
 
 ### Credits:
 
