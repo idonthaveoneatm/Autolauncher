@@ -5,11 +5,11 @@ import keyboard
 WEBHOOK = False #Toggle True or False
 
 if WEBHOOK:
-	from discord_webhook import DiscordWebhook, DiscordEmbed
 	#Discord webhook information
 	discordid = "" #If you dont know how to get it google it
 	webhookurl = "" #Your webhook
 	
+	from discord_webhook import DiscordWebhook, DiscordEmbed
 	content = f"<@!{discordid}>"
 	allowed_mentions = {"users": [f"{discordid}"]}
 	webhook = DiscordWebhook(url=webhookurl,content=content,allowed_mentions=allowed_mentions)
