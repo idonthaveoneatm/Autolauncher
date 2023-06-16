@@ -18,7 +18,7 @@ if you wish to end the checker just press 'q'
 - roblox uwp
 - knowledge on installing modules?
 
-##The button wont click in the right spot you the main.bat file:
+## The button wont click in the right spot you the main.bat file:
 
 https://www.youtube.com/watch?v=77meeSkPNYo
 
